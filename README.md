@@ -2,8 +2,6 @@
 
 So far...
 
-## Rover Diagram:
-
 ## follow_waypoints [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__follow_waypoints__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__follow_waypoints__ubuntu_xenial_amd64__binary)
 
 A package that will buffer `move_base` goals until instructed to navigate to all waypoints in sequence.
@@ -20,6 +18,11 @@ Add an indication of scale and compass to images.
 
 Full documentation on wiki: [http://wiki.ros.org/image_overlay_scale_and_compass](http://wiki.ros.org/image_overlay_scale_and_compass)
 
+## Rover Diagram:
+
+![Rover_Diagram](https://raw.githubusercontent.com/danielsnider/ros-rover/master/rover_diagram/Rover_Diagram.png)
+
+Rover Diagram in Visio Format: [Rover_Diagram.vsdx](https://github.com/danielsnider/ros-rover/blob/master/rover_diagram/Rover_Diagram.vsdx?raw=true)
 
 ## Team R3 Rover Source Code:
 
