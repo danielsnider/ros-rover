@@ -20,9 +20,9 @@ Full documentation on wiki: [http://wiki.ros.org/image_overlay_scale_and_compass
 
 ## Rover Diagram:
 
-![Rover_Diagram](https://raw.githubusercontent.com/danielsnider/ros-rover/master/rover_diagram/Rover_Diagram.png)
+![Rover_Diagram](https://raw.githubusercontent.com/danielsnider/ros-rover/master/diagrams/Rover_Diagram.png)
 
-Rover Diagram in Visio Format: [Rover_Diagram.vsdx](https://github.com/danielsnider/ros-rover/blob/master/rover_diagram/Rover_Diagram.vsdx?raw=true)
+Rover Diagram in Visio Format: [Rover_Diagram.vsdx](https://github.com/danielsnider/ros-rover/blob/master/diagrams/Rover_Diagram.vsdx?raw=true)
 
 ## Team R3 Rover Source Code:
 
