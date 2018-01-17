@@ -1,5 +1,7 @@
 This page lists open source contributions made by Team R3 of Ryerson University, Canada built for the University Rover Challenge (URC) 2017. We share our rover software architecture diagram and several ROS packages for the URC competition.
 
+Full guide as a book chapter: [Book Chapter - University Rover Challenge Tutorials and Team Survey](https://github.com/danielsnider/ros-rover/raw/master/Book%20Chapter%20-%20University%20Rover%20Challenge%20Tutorials%20and%20Control%20System%20Survey.pdf)
+
 
 
 ## Rover Diagram:
@@ -7,6 +9,15 @@ This page lists open source contributions made by Team R3 of Ryerson University,
 ![Rover_Diagram](https://raw.githubusercontent.com/danielsnider/ros-rover/master/diagrams/Rover_Diagram.png)
 
 Rover Diagram in Visio Format: [Rover_Diagram.vsdx](https://github.com/danielsnider/ros-rover/blob/master/diagrams/Rover_Diagram.vsdx?raw=true)
+
+## Survey of eight rover teams that competed in URC 2017
+
+
+
+<p align="center">
+ <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/team_survey_part1.PNG" alt="Drawing" height="400px">
+ <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/team_survey_part2.PNG" alt="Drawing" height="400px">
+</p>
 
 ## simple_drive [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__simple_drive__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__simple_drive__ubuntu_xenial_amd64__binary)
 
