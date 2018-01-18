@@ -10,9 +10,16 @@ Full guide as a book chapter: [Book Chapter - University Rover Challenge Tutoria
 
 Rover Diagram in Visio Format: [Rover_Diagram.vsdx](https://github.com/danielsnider/ros-rover/blob/master/diagrams/Rover_Diagram.vsdx?raw=true)
 
+#### Demonstration of Autonomous Rover Navigation (Video)
+
+Click to view video:
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=p_1nkSQS8HE"><img src="https://img.youtube.com/vi/p_1nkSQS8HE/0.jpg" target="_blank" alt="demo" width="50%"></a>
+</p>
+
+More glory shots of our rover: https://www.youtube.com/watch?v=DtilGB2vnQI
+
 ## Survey of eight rover teams that competed in URC 2017
-
-
 
 <p align="center">
  <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/team_survey_part1.PNG" alt="Drawing" height="400px">
