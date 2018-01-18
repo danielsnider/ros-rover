@@ -1,4 +1,4 @@
-This page lists open source contributions made by Team R3 of Ryerson University, Canada built for the University Rover Challenge (URC) 2017. We share our rover software architecture diagram and several ROS packages for the URC competition.
+This page lists open source contributions made by Team R3 of Ryerson University in Toronto, Canada and built for the University Rover Challenge (URC) 2017. We share our rover software architecture diagram and several ROS packages for the URC competition.
 
 **Full source code for our rover: https://github.com/danielsnider/URC**
 
