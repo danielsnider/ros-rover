@@ -79,3 +79,14 @@ Set a ROS navigation goal using latitude and longitude.
 
 Full documentation on wiki: [http://wiki.ros.org/GPS_goal](http://wiki.ros.org/GPS_goal)
 
+
+## Google Maps for ROS MapViz
+
+Easily use MapProxy in a docker container to proxy Google Maps satellite view into a WMTS tile service so that it can be viewed by ROS's MapViz Tile Map plugin. Support for offline maps after loading once, maps stay cached. For outdoor robotics and vehicles.
+
+<p align="center">
+ <img src="https://github.com/danielsnider/MapViz-Tile-Map-Google-Maps-Satellite/raw/master/screenshot.png" alt="Drawing" height="300px">
+ <img src="https://github.com/swri-robotics/mapviz/wiki/mapviz.png" alt="Drawing" height="300px">
+</p>
+
+Full documentation on: [https://github.com/danielsnider/MapViz-Tile-Map-Google-Maps-Satellite](https://github.com/danielsnider/MapViz-Tile-Map-Google-Maps-Satellite)
