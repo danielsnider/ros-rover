@@ -46,14 +46,6 @@ Simple velocity controlled arm. Teleoperation software and firmware.
 
 Full documentation on wiki: [http://wiki.ros.org/simple_arm](http://wiki.ros.org/simple_arm)
 
-## hugin_panorama [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__hugin_panorama__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__hugin_panorama__ubuntu_xenial_amd64__binary)
-
-Create panoramas in ROS using image snapshots or multiple video streams.
-
-![follow_waypoints](http://wiki.ros.org/hugin_panorama?action=AttachFile&do=get&target=pano_by_senza_senso.JPG "rviz")
-
-Full documentation on wiki: [http://wiki.ros.org/hugin_panorama](http://wiki.ros.org/hugin_panorama)
-
 
 ## follow_waypoints [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__follow_waypoints__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__follow_waypoints__ubuntu_xenial_amd64__binary)
 
@@ -68,9 +60,22 @@ Full documentation on wiki: [http://wiki.ros.org/follow_waypoints](http://wiki.r
 
 Add an indication of scale and compass to images.
 
-![image_overlay_scale_and_compass](http://wiki.ros.org/image_overlay_scale_and_compass?action=AttachFile&do=get&target=mars.png "mars")
+<p align="center">
+ <img src="http://wiki.ros.org/image_overlay_scale_and_compass?action=AttachFile&do=get&target=mars.png" alt="Drawing" height="400px">
+</p>
 
 Full documentation on wiki: [http://wiki.ros.org/image_overlay_scale_and_compass](http://wiki.ros.org/image_overlay_scale_and_compass)
+
+## hugin_panorama [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__hugin_panorama__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__hugin_panorama__ubuntu_xenial_amd64__binary)
+
+Create panoramas in ROS using image snapshots or multiple video streams. 
+
+<p align="center">
+ <img src="http://wiki.ros.org/hugin_panorama?action=AttachFile&do=get&target=pano_by_senza_senso.JPG" alt="Drawing" height="250px">
+</p>
+
+Full documentation on wiki: [http://wiki.ros.org/hugin_panorama](http://wiki.ros.org/hugin_panorama)
+
 
 ## lost_comms_recovery [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__lost_comms_recovery__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__lost_comms_recovery__ubuntu_xenial_amd64__binary)
 
