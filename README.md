@@ -37,7 +37,7 @@ A simple robot drive system that includes skid steering joystick teleoperation, 
  <img src="http://wiki.ros.org/simple_drive?action=AttachFile&do=get&target=Simple_Drive_Diagram.png" alt="Drawing" width="80%">
 </p>
 
-Full documentation on wiki: [http://wiki.ros.org/simple_drive](http://wiki.ros.org/simple_drive)
+Project homepage: [http://wiki.ros.org/simple_drive](http://wiki.ros.org/simple_drive)
 
 
 ## simple_arm [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__simple_arm__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__simple_arm__ubuntu_xenial_amd64__binary)
@@ -46,7 +46,7 @@ Simple velocity controlled arm. Teleoperation software and firmware.
 
 ![follow_waypoints](http://wiki.ros.org/simple_arm?action=AttachFile&do=get&target=simple+arm+joystick+diagram.png "rviz")
 
-Full documentation on wiki: [http://wiki.ros.org/simple_arm](http://wiki.ros.org/simple_arm)
+Project homepage: [http://wiki.ros.org/simple_arm](http://wiki.ros.org/simple_arm)
 
 
 ## follow_waypoints [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__follow_waypoints__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__follow_waypoints__ubuntu_xenial_amd64__binary)
@@ -55,7 +55,7 @@ A package that will buffer `move_base` goals until instructed to navigate to all
 
 ![follow_waypoints](https://github.com/danielsnider/follow_waypoints/blob/master/readme_images/follow_waypoints_rviz.png "rviz")
 
-Full documentation on wiki: [http://wiki.ros.org/follow_waypoints](http://wiki.ros.org/follow_waypoints)
+Project homepage: [http://wiki.ros.org/follow_waypoints](http://wiki.ros.org/follow_waypoints)
 
 
 ## image_overlay_scale_and_compass [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__image_overlay_scale_and_compass__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__image_overlay_scale_and_compass__ubuntu_xenial_amd64__binary)
@@ -66,7 +66,7 @@ Add an indication of scale and compass to images.
  <img src="http://wiki.ros.org/image_overlay_scale_and_compass?action=AttachFile&do=get&target=mars.png" alt="Drawing" height="400px">
 </p>
 
-Full documentation on wiki: [http://wiki.ros.org/image_overlay_scale_and_compass](http://wiki.ros.org/image_overlay_scale_and_compass)
+Project homepage: [http://wiki.ros.org/image_overlay_scale_and_compass](http://wiki.ros.org/image_overlay_scale_and_compass)
 
 ## hugin_panorama [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__hugin_panorama__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__hugin_panorama__ubuntu_xenial_amd64__binary)
 
@@ -76,21 +76,21 @@ Create panoramas in ROS using image snapshots or multiple video streams.
  <img src="http://wiki.ros.org/hugin_panorama?action=AttachFile&do=get&target=pano_by_senza_senso.JPG" alt="Drawing" height="250px">
 </p>
 
-Full documentation on wiki: [http://wiki.ros.org/hugin_panorama](http://wiki.ros.org/hugin_panorama)
+Project homepage: [http://wiki.ros.org/hugin_panorama](http://wiki.ros.org/hugin_panorama)
 
 
 ## lost_comms_recovery [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__lost_comms_recovery__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__lost_comms_recovery__ubuntu_xenial_amd64__binary)
 
 If your robot loses connection to the base station it will stop motors or navigate home.
 
-Full documentation on wiki: [http://wiki.ros.org/lost_comms_recovery](http://wiki.ros.org/lost_comms_recovery)
+Project homepage: [http://wiki.ros.org/lost_comms_recovery](http://wiki.ros.org/lost_comms_recovery)
 
 
 ## GPS_goal [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__GPS_goal__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__GPS_goal__ubuntu_xenial_amd64__binary)
 
 Set a ROS navigation goal using latitude and longitude.
 
-Full documentation on wiki: [http://wiki.ros.org/GPS_goal](http://wiki.ros.org/GPS_goal)
+Project homepage: [http://wiki.ros.org/GPS_goal](http://wiki.ros.org/GPS_goal)
 
 
 ## Survey of eight rover teams that competed in URC 2017
@@ -109,4 +109,4 @@ Easily use MapProxy in a docker container to proxy Google Maps satellite view in
  <img src="https://github.com/swri-robotics/mapviz/wiki/mapviz.png" alt="Drawing" height="300px">
 </p>
 
-Full documentation on: [https://github.com/danielsnider/MapViz-Tile-Map-Google-Maps-Satellite](https://github.com/danielsnider/MapViz-Tile-Map-Google-Maps-Satellite)
+Project homepage: [https://github.com/danielsnider/MapViz-Tile-Map-Google-Maps-Satellite](https://github.com/danielsnider/MapViz-Tile-Map-Google-Maps-Satellite)
