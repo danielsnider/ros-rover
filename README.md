@@ -2,6 +2,23 @@ This page lists open source contributions made by Team R3 of Ryerson University 
 
 **Full source code for our rover: https://github.com/danielsnider/URC**
 
+### Demonstration of Autonomous Rover Navigation (Click to view video)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=p_1nkSQS8HE"><img src="https://img.youtube.com/vi/p_1nkSQS8HE/0.jpg" target="_blank" alt="demo" width="40%"></a>
+ <a href="https://www.youtube.com/watch?v=p_1nkSQS8HE"><img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/montage.PNG?raw=true" alt="Drawing" width="50%"></a>
+</p>
+
+More glory shots of rover: https://www.youtube.com/watch?v=DtilGB2vnQI
+
+## Detailed Software Design in Published Book Chapter:
+
+<p align="center">
+ <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/book_cover.png?raw=true" alt="Drawing" height="400px">
+ <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/chapter_first_page.png?raw=true" alt="Drawing" height="400px">
+
+</p>
+
 **Full documentation in a book chapter: [Book Chapter - University Rover Challenge Tutorials and Team Survey.pdf](https://github.com/danielsnider/ros-rover/raw/master/Book%20Chapter%20-%20University%20Rover%20Challenge%20Tutorials%20and%20Control%20System%20Survey.pdf)**
 
 ## Rover Diagram:
@@ -9,21 +26,6 @@ This page lists open source contributions made by Team R3 of Ryerson University 
 ![Rover_Diagram](https://raw.githubusercontent.com/danielsnider/ros-rover/master/diagrams/Rover_Diagram.png)
 
 Rover Diagram in Visio Format: [Rover_Diagram.vsdx](https://github.com/danielsnider/ros-rover/blob/master/diagrams/Rover_Diagram.vsdx?raw=true)
-
-#### Demonstration of Autonomous Rover Navigation (Click to view video)
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=p_1nkSQS8HE"><img src="https://img.youtube.com/vi/p_1nkSQS8HE/0.jpg" target="_blank" alt="demo" width="50%"></a>
-</p>
-
-More glory shots of our rover: https://www.youtube.com/watch?v=DtilGB2vnQI
-
-## Survey of eight rover teams that competed in URC 2017
-
-<p align="center">
- <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/team_survey_part1.PNG" alt="Drawing" height="400px">
- <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/team_survey_part2.PNG" alt="Drawing" height="400px">
-</p>
 
 ## simple_drive [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__simple_drive__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__simple_drive__ubuntu_xenial_amd64__binary)
 
@@ -90,6 +92,13 @@ Set a ROS navigation goal using latitude and longitude.
 
 Full documentation on wiki: [http://wiki.ros.org/GPS_goal](http://wiki.ros.org/GPS_goal)
 
+
+## Survey of eight rover teams that competed in URC 2017
+
+<p align="center">
+ <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/team_survey_part1.PNG" alt="Drawing" height="400px">
+ <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/team_survey_part2.PNG" alt="Drawing" height="400px">
+</p>
 
 ## Google Maps for ROS MapViz
 
