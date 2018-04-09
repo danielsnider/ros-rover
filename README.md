@@ -96,8 +96,8 @@ Full documentation on wiki: [http://wiki.ros.org/GPS_goal](http://wiki.ros.org/G
 ## Survey of eight rover teams that competed in URC 2017
 
 <p align="center">
- <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/team_survey_part1.PNG" alt="Drawing" height="400px">
- <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/team_survey_part2.PNG" alt="Drawing" height="400px">
+ <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/team_survey_part1.PNG" alt="Drawing" height="500px">
+ <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/team_survey_part2.PNG" alt="Drawing" height="500px">
 </p>
 
 ## Google Maps for ROS MapViz
