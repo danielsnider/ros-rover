@@ -13,9 +13,9 @@ More glory shots of rover: https://www.youtube.com/watch?v=DtilGB2vnQI
 
 ## Published Book Chapter:
 
-**Robot Operating System (ROS): The Complete Reference (Volume 3) (Studies in Computational Intelligence)** Released July 2, 2018.
+**Robot Operating System (ROS): The Complete Reference (Volume 3), Studies in Computational Intelligence** Released July 2, 2018.
 
-Detailed instructions and tips are published in a book chapter. Link to my chapter [PDF](https://github.com/danielsnider/ros-rover/raw/master/Book%20Chapter%20-%20University%20Rover%20Challenge%20Tutorials%20and%20Control%20System%20Survey.pdf). Link to buy [book](https://www.amazon.com/Robot-Operating-System-ROS-Computational/dp/3319915894/ref=sr_1_fkmr0_3?ie=UTF8&qid=1526347481&sr=8-3-fkmr0&keywords=complete+guide+to+robot+operating+system).
+Detailed instructions and tips are published in a book chapter. Link to my chapter [PDF](https://github.com/danielsnider/ros-rover/raw/master/Book%20Chapter%20-%20University%20Rover%20Challenge%20Tutorials%20and%20Control%20System%20Survey.pdf). Link to buy [book on Amazon](https://www.amazon.com/Robot-Operating-System-ROS-Computational/dp/3319915894/ref=sr_1_fkmr0_3?ie=UTF8&qid=1526347481&sr=8-3-fkmr0&keywords=complete+guide+to+robot+operating+system).
 
 <p align="center">
  <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/book_cover.png?raw=true" alt="Drawing" height="400px">
