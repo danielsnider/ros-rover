@@ -33,7 +33,7 @@ Rover Diagram in Visio Format: [Rover_Diagram.vsdx](https://github.com/danielsni
 
 ## simple_drive [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__simple_drive__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__simple_drive__ubuntu_xenial_amd64__binary)
 
-A simple robot drive system that includes skid steering joystick teleoperation, control of a panning servo to look around the robot, and Arduino firmware.
+A simple robot drive system for skid steering joystick teleoperation, control of a panning servo to look around the robot, and Arduino firmware.
 
 <p align="center">
  <img src="http://wiki.ros.org/simple_drive?action=AttachFile&do=get&target=Xbox_Controller.png" alt="Drawing" width="45%">
@@ -46,7 +46,7 @@ Project homepage: [http://wiki.ros.org/simple_drive](http://wiki.ros.org/simple_
 
 ## simple_arm [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__simple_arm__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__simple_arm__ubuntu_xenial_amd64__binary)
 
-Simple velocity controlled arm. Teleoperation software and firmware.
+Simple 6-axis robot arm teleoperation software and Arduino firmware.
 
 ![follow_waypoints](http://wiki.ros.org/simple_arm?action=AttachFile&do=get&target=simple+arm+joystick+diagram.png "rviz")
 
@@ -64,7 +64,7 @@ Project homepage: [http://wiki.ros.org/follow_waypoints](http://wiki.ros.org/fol
 
 ## image_overlay_scale_and_compass [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__image_overlay_scale_and_compass__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__image_overlay_scale_and_compass__ubuntu_xenial_amd64__binary)
 
-Add an indication of scale and compass to images.
+Add an indication of scale and compass to live images.
 
 <p align="center">
  <img src="http://wiki.ros.org/image_overlay_scale_and_compass?action=AttachFile&do=get&target=mars.png" alt="Drawing" height="400px">
@@ -85,14 +85,14 @@ Project homepage: [http://wiki.ros.org/hugin_panorama](http://wiki.ros.org/hugin
 
 ## lost_comms_recovery [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__lost_comms_recovery__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__lost_comms_recovery__ubuntu_xenial_amd64__binary)
 
-If your robot loses connection to the base station it will stop motors or navigate home.
+If robot loses its network connection it will stop motors or set a goal to navigate home autonomously.
 
 Project homepage: [http://wiki.ros.org/lost_comms_recovery](http://wiki.ros.org/lost_comms_recovery)
 
 
 ## GPS_goal [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__GPS_goal__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__GPS_goal__ubuntu_xenial_amd64__binary)
 
-Set a ROS navigation goal using latitude and longitude.
+Set navigation goals in ROS frame coordinates using latitude and longitude.
 
 Project homepage: [http://wiki.ros.org/GPS_goal](http://wiki.ros.org/GPS_goal)
 
@@ -104,9 +104,9 @@ Project homepage: [http://wiki.ros.org/GPS_goal](http://wiki.ros.org/GPS_goal)
  <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/team_survey_part2.PNG" alt="Drawing" height="500px">
 </p>
 
-## Google Maps for ROS MapViz
+## MapProxy docker container for ROS MapViz
 
-Easily use MapProxy in a docker container to proxy Google Maps satellite view into a WMTS tile service so that it can be viewed by ROS's MapViz Tile Map plugin. Support for offline maps after loading once, maps stay cached. For outdoor robotics and vehicles.
+Proxy zoomable map tiles from Google Maps to ROS MapViz for use with outdoor robots. For easy setup of MapProxy in a docker container to proxy Google Maps satellite view into a WMTS tile service so that it can be viewed by ROS's MapViz Tile Map plugin. Support for offline maps after loading once, maps stay cached. For outdoor robotics and vehicles.
 
 <p align="center">
  <img src="https://github.com/danielsnider/MapViz-Tile-Map-Google-Maps-Satellite/raw/master/screenshot.png" alt="Drawing" height="300px">
