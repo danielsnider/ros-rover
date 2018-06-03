@@ -33,7 +33,7 @@ Link to [book on Amazon](https://www.amazon.com/Robot-Operating-System-ROS-Compu
 
 Rover Diagram in Visio Format: [Rover_Diagram.vsdx](https://github.com/danielsnider/ros-rover/blob/master/diagrams/Rover_Diagram.vsdx?raw=true)
 
-ROS-Rover was built with ROS Kinetic and Ubuntu 16.04, and it has five main systems: the drive system, the autonomous system, the global positioning system, the visual feedback system, and the odometry system. 
+ROS-Rover has five main systems: the drive system, the autonomous system, the global positioning system, the visual feedback system, and the odometry system. 
 
 #### Autonomous System (Diagram Reference)
 
