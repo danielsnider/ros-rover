@@ -33,6 +33,52 @@ Link to [book on Amazon](https://www.amazon.com/Robot-Operating-System-ROS-Compu
 
 Rover Diagram in Visio Format: [Rover_Diagram.vsdx](https://github.com/danielsnider/ros-rover/blob/master/diagrams/Rover_Diagram.vsdx?raw=true)
 
+ROS-Rover was built with Kinetic ROS and Ubuntu 16.04, and it has five main systems: the drive system, the autonomous system, the global positioning system, the visual feedback system, and the odometry system. 
+
+#### Autonomous System (Diagram Reference)
+
+1\. zed-ros-wrapper [http://wiki.ros.org/zed-ros-wrapper](http://wiki.ros.org/zed-ros-wrapper)<br>
+2\. follow_waypoints.py [http://wiki.ros.org/follow_waypoints](http://wiki.ros.org/follow_waypoints)<br>
+3\. rgbd_odometry [http://wiki.ros.org/rtabmap_ros#rgbd_odometry](http://wiki.ros.org/rtabmap_ros#rgbd_odometry)<br>
+4\. rtabmap [http://wiki.ros.org/rtabmap_ros](http://wiki.ros.org/rtabmap_ros)<br>
+21\. gps_goal.py [http://wiki.ros.org/gps_goal](http://wiki.ros.org/gps_goal)<br>
+
+
+#### Odometry System (Diagram Reference)
+
+5\. ekf_localization [http://docs.ros.org/kinetic/api/robot_localization/html/](http://docs.ros.org/kinetic/api/robot_localization/html/)<br>
+6\. rtimulib_ros [https://github.com/romainreignier/rtimulib_ros](https://github.com/romainreignier/rtimulib_ros)<br>
+7\. navsat_transform [http://docs.ros.org/kinetic/api/robot_localization/html/](http://docs.ros.org/kinetic/api/robot_localization/html/)<br>
+8\. nmea_navsat_driver [http://wiki.ros.org/nmea_navsat_driver](http://wiki.ros.org/nmea_navsat_driver)<br>
+
+
+
+#### Drive System (Diagram Reference)
+
+9\. joy [http://wiki.ros.org/joy](http://wiki.ros.org/joy)<br>
+10\. drive_teleop.py [http://wiki.ros.org/simple_drive#drive_teleop](http://wiki.ros.org/simple_drive#drive_teleop)<br>
+11\. cmd_vel_mux.py [http://wiki.ros.org/simple_drive#cmd_vel_mux](http://wiki.ros.org/simple_drive#cmd_vel_mux)<br>
+12\. simple_drive.py [http://wiki.ros.org/simple_drive#simple_drive-1](http://wiki.ros.org/simple_drive#simple_drive-1)<br>
+
+
+#### Navigation Stack (Diagram Reference)
+
+13\. move_base [http://wiki.ros.org/move_base](http://wiki.ros.org/move_base)<br>
+14\. Cost Map costmap_2d [http://wiki.ros.org/costmap_2d](http://wiki.ros.org/costmap_2d)<br>
+15\. Cost Map Obstacle Layer [http://wiki.ros.org/costmap_2d/hydro/obstacles](http://wiki.ros.org/costmap_2d/hydro/obstacles)<br>
+16\. Cost Map Static Layer [http://wiki.ros.org/costmap_2d/hydro/staticmap](http://wiki.ros.org/costmap_2d/hydro/staticmap)<br>
+17\. Global Planner Navfn [http://wiki.ros.org/navfn](http://wiki.ros.org/navfn)<br>
+18\. Local Planner base_local_planner [http://wiki.ros.org/base_local_planner](http://wiki.ros.org/base_local_planner)<br>
+
+
+#### Visual Feedback (Diagram Reference)
+
+19\. RViz [http://wiki.ros.org/rviz](http://wiki.ros.org/rviz)<br>
+20\. rqt_image_view [http://wiki.ros.org/rqt_image_view](http://wiki.ros.org/rqt_image_view)<br>
+22\. MapViz [http://wiki.ros.org/mapviz](http://wiki.ros.org/mapviz)<br>
+23\. usb_cam [http://wiki.ros.org/usb_cam](http://wiki.ros.org/usb_cam)<br>
+
+
 ## simple_drive [![Build Status](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__simple_drive__ubuntu_xenial_amd64__binary)](http://build.ros.org/job/Kbin_uX64__simple_drive__ubuntu_xenial_amd64__binary)
 
 A simple robot drive system for skid steering joystick teleoperation, control of a panning servo to look around the robot, and Arduino firmware.
