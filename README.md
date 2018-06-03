@@ -106,6 +106,17 @@ Project homepage: [http://wiki.ros.org/GPS_goal](http://wiki.ros.org/GPS_goal)
  <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/team_survey_part2.PNG" alt="Drawing" height="500px">
 </p>
 
+## Advanced Terminal Organization
+
+ROS robots are often controlled by many bash terminals and the startup sequence involves many roslaunch commands in different terminals. I demonstrate how you can use Tmux on your robot to codify your terminal layout into a powerful ROS administration system. The organized, repeatable tmux view can be shared in real-time by all of your teammembers for a consistent view of the robot's inner workings.
+
+<p align="center">
+ <img src="https://github.com/danielsnider/ros-rover/raw/master/diagrams/tmuxinator_ROS.png" alt="Drawing" width="500px">
+ <img src="https://github.com/danielsnider/ros-rover/raw/master/diagrams/tmuxinator_ROS2.PNG" alt="Drawing" width="500px">
+</p>
+
+Project homepage: coming soon 
+
 ## MapProxy docker container for ROS MapViz
 
 Proxy zoomable map tiles from Google Maps to ROS MapViz for use with outdoor robots. For easy setup of MapProxy in a docker container to proxy Google Maps satellite view into a WMTS tile service so that it can be viewed by ROS's MapViz Tile Map plugin. Support for offline maps after loading once, maps stay cached. For outdoor robotics and vehicles.
@@ -116,3 +127,4 @@ Proxy zoomable map tiles from Google Maps to ROS MapViz for use with outdoor rob
 </p>
 
 Project homepage: [https://github.com/danielsnider/MapViz-Tile-Map-Google-Maps-Satellite](https://github.com/danielsnider/MapViz-Tile-Map-Google-Maps-Satellite)
+
