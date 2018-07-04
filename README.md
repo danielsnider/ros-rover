@@ -7,6 +7,7 @@ This page lists open source contributions made by Team R3 of Ryerson University 
 </p>
 
 Autonomous navigation video: https://www.youtube.com/watch?v=p_1nkSQS8HE
+
 More video of rover: https://www.youtube.com/watch?v=DtilGB2vnQI
 
 ## Published Book Chapter:
