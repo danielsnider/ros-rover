@@ -1,7 +1,5 @@
 This page lists open source contributions made by Team R3 of Ryerson University in Toronto, Canada and built for the University Rover Challenge (URC) 2017. We share our rover software architecture diagram and several ROS packages for the URC competition.
 
-**Full source code for our rover: https://github.com/danielsnider/URC**
-
 ### Demonstration of Autonomous Rover Navigation
 
 Autonomous navigation video: https://www.youtube.com/watch?v=p_1nkSQS8HE
@@ -28,6 +26,8 @@ Link to [book on Amazon](https://www.amazon.com/Robot-Operating-System-ROS-Compu
 </p>
 
 **Full documentation in a book chapter: [Book Chapter - University Rover Challenge Tutorials and Team Survey.pdf](https://github.com/danielsnider/ros-rover/raw/master/Book%20Chapter%20-%20University%20Rover%20Challenge%20Tutorials%20and%20Control%20System%20Survey.pdf)**
+
+**Full source code for our rover: https://github.com/danielsnider/URC**
 
 ## Rover Diagram:
 
