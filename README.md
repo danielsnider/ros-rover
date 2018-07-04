@@ -2,14 +2,16 @@ This page lists open source contributions made by Team R3 of Ryerson University 
 
 **Full source code for our rover: https://github.com/danielsnider/URC**
 
-### Demonstration of Autonomous Rover Navigation (Click to view video)
+### Demonstration of Autonomous Rover Navigation
+
+Autonomous navigation video: https://www.youtube.com/watch?v=p_1nkSQS8HE
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=p_1nkSQS8HE"><img src="https://img.youtube.com/vi/p_1nkSQS8HE/0.jpg" target="_blank" alt="demo" width="40%"></a>
  <a href="https://www.youtube.com/watch?v=p_1nkSQS8HE"><img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/montage.PNG?raw=true" alt="Drawing" width="50%"></a>
 </p>
 
-More glory shots of rover: https://www.youtube.com/watch?v=DtilGB2vnQI
+More video of rover: https://www.youtube.com/watch?v=DtilGB2vnQI
 
 ## Published Book Chapter:
 
