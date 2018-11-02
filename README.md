@@ -163,7 +163,10 @@ ROS robots are often controlled by many bash terminals and the startup sequence 
  <img src="https://github.com/danielsnider/ros-rover/raw/master/diagrams/tmuxinator_ROS2.PNG" alt="Drawing" width="500px">
 </p>
 
-Project homepage: coming soon 
+- The tmuxinator config used by Team R3 to start all the rover software components is here: 
+https://github.com/teamr3/URC/blob/master/.tmuxinator.yml
+- The tmuxinator config used by Team R3 to start all the base station
+control components is here: https://github.com/teamr3/URC/blob/master/devstuff/dan/.tmuxinator.yml
 
 ## MapProxy docker container for ROS MapViz
 
