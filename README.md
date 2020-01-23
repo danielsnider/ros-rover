@@ -9,7 +9,7 @@ Autonomous navigation video: https://www.youtube.com/watch?v=p_1nkSQS8HE
  <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/montage.PNG?raw=true" alt="Drawing" width="50%">
 </p>
 
-More video of rover: https://www.youtube.com/watch?v=DtilGB2vnQI
+More video of rover: https://youtu.be/YEfgYmFqJqM
 
 ## Published Book Chapter:
 
