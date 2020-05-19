@@ -144,7 +144,7 @@ Project homepage: [http://wiki.ros.org/lost_comms_recovery](http://wiki.ros.org/
 
 Set navigation goals in ROS frame coordinates using latitude and longitude.
 
-Project homepage: [http://wiki.ros.org/GPS_goal](http://wiki.ros.org/GPS_goal)
+Project homepage: [http://wiki.ros.org/gps_goal](http://wiki.ros.org/gps_goal)
 
 
 ## Survey of eight rover teams that competed in URC 2017
