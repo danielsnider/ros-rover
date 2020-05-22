@@ -20,7 +20,7 @@ Link to chapter: [PDF](https://github.com/danielsnider/ros-rover/raw/master/Book
 Link to [book on Amazon](https://www.amazon.com/Robot-Operating-System-ROS-Computational/dp/3319915894/ref=sr_1_fkmr0_3?ie=UTF8&qid=1526347481&sr=8-3-fkmr0&keywords=complete+guide+to+robot+operating+system).
 
 <p align="center">
- <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/book_cover.png?raw=true" alt="Drawing" height="400px">
+ <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/book_cover.jpg?raw=true" alt="Drawing" height="400px">
  <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/chapter_first_page.png?raw=true" alt="Drawing" height="400px">
 
 </p>
