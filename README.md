@@ -98,7 +98,7 @@ Project homepage: [http://wiki.ros.org/simple_drive](http://wiki.ros.org/simple_
 
 Simple 6-axis robot arm teleoperation software and Arduino firmware.
 
-![follow_waypoints](http://wiki.ros.org/simple_arm?action=AttachFile&do=get&target=simple+arm+joystick+diagram.png "rviz")
+![follow_waypoints](https://github.com/danielsnider/ros-rover/raw/master/diagrams/simple_arm.jpg "rviz")
 
 Project homepage: [http://wiki.ros.org/simple_arm](http://wiki.ros.org/simple_arm)
 
