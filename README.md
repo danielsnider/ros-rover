@@ -6,7 +6,7 @@ Autonomous navigation video: https://www.youtube.com/watch?v=p_1nkSQS8HE
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=p_1nkSQS8HE"><img src="https://img.youtube.com/vi/p_1nkSQS8HE/0.jpg" target="_blank" alt="demo" width="40%"></a>
- <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/montage.PNG?raw=true" alt="Drawing" width="50%">
+ <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/montage.jpg?raw=true" alt="Drawing" width="50%">
 </p>
 
 More video of rover: https://youtu.be/YEfgYmFqJqM
@@ -159,8 +159,8 @@ Project homepage: [http://wiki.ros.org/gps_goal](http://wiki.ros.org/gps_goal)
 ROS robots are often controlled by many bash terminals and the startup sequence involves many roslaunch commands in different terminals. I demonstrate how you can use Tmux on your robot to codify your terminal layout into a powerful ROS administration system. The organized, repeatable tmux view can be shared in real-time by all of your teammembers for a consistent view of the robot's inner workings.
 
 <p align="center">
- <img src="https://github.com/danielsnider/ros-rover/raw/master/diagrams/tmuxinator_ROS.png" alt="Drawing" width="500px">
- <img src="https://github.com/danielsnider/ros-rover/raw/master/diagrams/tmuxinator_ROS2.PNG" alt="Drawing" width="500px">
+ <img src="https://github.com/danielsnider/ros-rover/raw/master/diagrams/tmuxinator_ROS_60.jpg" alt="Drawing" width="500px">
+ <img src="https://github.com/danielsnider/ros-rover/raw/master/diagrams/tmuxinator_ROS2_60.jpg" alt="Drawing" width="500px">
 </p>
 
 - The tmuxinator config used by Team R3 to start all the rover software components is here: 
