@@ -156,7 +156,7 @@ Project homepage: [http://wiki.ros.org/gps_goal](http://wiki.ros.org/gps_goal)
 
 ## Advanced Terminal Organization
 
-ROS robots are often controlled by many bash terminals and the startup sequence involves many roslaunch commands in different terminals. I demonstrate how you can use Tmux on your robot to codify your terminal layout into a powerful ROS administration system. The organized, repeatable tmux view can be shared in real-time by all of your teammembers for a consistent view of the robot's inner workings.
+ROS robots are often controlled by many bash terminals and the startup sequence involves many roslaunch commands in different terminals. I demonstrate how you can use Tmux on your robot to codify your terminal layout into a powerful ROS administration system. The organized, repeatable tmux view can be shared in real-time by all of your team members for a consistent view of the robot's inner workings.
 
 <p align="center">
  <img src="https://github.com/danielsnider/ros-rover/raw/master/diagrams/tmuxinator_ROS_60.jpg" alt="Drawing" width="500px">
