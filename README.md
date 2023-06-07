@@ -1,8 +1,8 @@
-This page lists open source contributions made by Team R3 of Ryerson University in Toronto, Canada and built for the University Rover Challenge (URC) 2017. We share our rover software architecture diagram and several ROS packages for the URC competition.
+This page lists my open source contributions made while at Team R3 of Ryerson University in Toronto, Canada and built for the University Rover Challenge (URC) 2017. We share our rover software architecture diagram and several ROS packages for the URC competition.
 
-### Demonstration of Autonomous Rover Navigation
+### Demonstration of our Autonomous Rover Navigation
 
-Autonomous navigation video: https://www.youtube.com/watch?v=p_1nkSQS8HE
+Our autonomous navigation video: https://www.youtube.com/watch?v=p_1nkSQS8HE
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=p_1nkSQS8HE"><img src="https://img.youtube.com/vi/p_1nkSQS8HE/0.jpg" target="_blank" alt="demo" width="40%"></a>
@@ -11,7 +11,7 @@ Autonomous navigation video: https://www.youtube.com/watch?v=p_1nkSQS8HE
 
 More video of rover: https://youtu.be/YEfgYmFqJqM
 
-## Published Book Chapter:
+## My Published Book Chapter:
 
 **Robot Operating System (ROS): The Complete Reference (Volume 3), Studies in Computational Intelligence** Released July 2, 2018.
 
@@ -29,7 +29,7 @@ Link to [book on Amazon](https://www.amazon.com/Robot-Operating-System-ROS-Compu
 
 **Full source code for our rover: https://github.com/danielsnider/URC**
 
-## Rover Diagram:
+## My Rover System Diagram:
 
 ![Rover_Diagram](https://raw.githubusercontent.com/danielsnider/ros-rover/master/diagrams/Rover_Diagram.png)
 
